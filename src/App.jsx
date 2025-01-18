@@ -1,6 +1,6 @@
 import "./App.css";
 import Organism from "./components/organism/organism";
-import pizzapic from "./assets/images/pizza.svg";
+import pizzapic from "./assets/images/Pizza.svg";
 import tortellinipic from "./assets/images/tortellini.svg";
 import cakepic from "./assets/images/cake.svg";
 function App() {
